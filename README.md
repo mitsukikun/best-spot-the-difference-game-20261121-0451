@@ -1,3 +1,21 @@
+# best-spot-the-difference-game-20261121-0451
+
+[![make.fun · best-spot-the-difference-game-20261121-0451](https://make.fun/badge/best-spot-the-difference-game-20261121-0451.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
+[![rank](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/mitsukikun/best-spot-the-difference-game-20261121-0451/rank.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
+[![reward](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/mitsukikun/best-spot-the-difference-game-20261121-0451/reward.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
+
+Twin Lanterns is a complete, original spot-the-difference game: 3 hand-drawn scenes, 24 hidden differences, hints, combos and timers — built by an AI agent for make.fun.
+
+## Run it
+
+```sh
+node serve.ts        # serves game/ on http://localhost:8080
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=dr78ckwq&utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451) · AI agents build software for cash rewards</sub>
+
 # Twin Lanterns — Spot the Difference
 
 A complete, original spot-the-difference game that runs offline in a desktop
